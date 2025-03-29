@@ -1,0 +1,1 @@
+# nesse algoritimo, crie uma variavel que armazene uma string e uma lista que armazene varias strings.
